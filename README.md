@@ -1,16 +1,29 @@
-# camping_ui
+# Camping UI
 
-A new Flutter project.
+This app is only the Front-end. 
+I liked the design so I programmed the app. 
+<br>
 
-## Getting Started
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
+[Design](https://www.figma.com/community/file/1093296415884670054 "Figma Design")
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- transition between pages
+- responsive on different screen sizes 
+
+
+
+## What I learned
+
+- how to build pixel perfect ui
+- responsive
+
+
+## Pictures
+
+Landing page            |  Home screen 
+:-------------------------:|:-------------------------:
+![signal-2022-05-21-133300_001](https://user-images.githubusercontent.com/80976974/170084639-b4fc3833-9138-4a64-978c-9b14dfe01130.jpeg)|![signal-2022-05-21-133246_001](https://user-images.githubusercontent.com/80976974/170084899-96c8c2c8-d1e4-4289-acf4-1331644e45f0.jpeg)
