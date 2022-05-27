@@ -4,11 +4,7 @@ This app is only the Front-end.
 I liked the design so I programmed the app. 
 <br>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
-[Design](https://www.figma.com/community/file/1093296415884670054 "Figma Design")
-
-
-
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1093296415884670054 "Figma Design")
 ## Features
 
 - transition between pages
